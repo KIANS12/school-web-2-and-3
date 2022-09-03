@@ -1,0 +1,10 @@
+iframe{
+    width: 100%;
+    
+}
+.movie_head{
+    padding: 7px;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+}
